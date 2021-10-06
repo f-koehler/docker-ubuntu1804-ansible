@@ -1,6 +1,8 @@
 # Ubuntu 18.04 LTS (Bionic) Ansible Test Image
 
-[![CI](https://github.com/geerlingguy/docker-ubuntu1804-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/geerlingguy/docker-ubuntu1804-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/geerlingguy/docker-ubuntu1804-ansible)](https://hub.docker.com/r/geerlingguy/docker-ubuntu1804-ansible/)
+[![CI](https://github.com/f-koehler/docker-ubuntu1804-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/f-koehler/docker-ubuntu1804-ansible/actions/workflows/build.yml)
+![Docker Pulls](https://img.shields.io/docker/pulls/fabiankoehler/ubuntu1804-ansible)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/fabiankoehler/ubuntu1804-ansible/latest)
 
 Ubuntu 18.04 LTS (Bionic) Docker container for Ansible playbook and role testing.
 
